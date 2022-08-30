@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://quantumltd.github.io</id>
+    <title>Quantum-荃藤</title>
+    <updated>2022-08-30T02:50:41.898Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://quantumltd.github.io"/>
+    <link rel="self" href="https://quantumltd.github.io/atom.xml"/>
+    <subtitle>Quantum-荃藤科创</subtitle>
+    <logo>https://quantumltd.github.io/images/avatar.png</logo>
+    <icon>https://quantumltd.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, Quantum-荃藤</rights>
+    <entry>
+        <title type="html"><![CDATA[blog是什么]]></title>
+        <id>https://quantumltd.github.io/post/blog-shi-shi-me/</id>
+        <link href="https://quantumltd.github.io/post/blog-shi-shi-me/">
+        </link>
+        <updated>2022-08-30T02:47:38.000Z</updated>
+        <content type="html"><![CDATA[<p>博客最初的名称是Weblog，由 web 和 log 两个单词组成，按字面意思就为网络日记，后来喜欢新名词的人把这个词的发音故意改了一下，读成 we blog，由此，blog 这个词被创造出来。中文意思即网志或网络日志，不过，在中国大陆有人往往也将Blog本身和blogger（即博客作者）均音译为“博客”。“博客”有较深的涵义：“博”为“广博”；“客”不单是“blogger”更有“好客”之意。看Blog的人都是“客”。而在台湾，则分别音译成“部落格”（或“部落阁”）及“部落客”，认为Blog本身有社群群组的意含在内，借由Blog可以将网络上网友集结成一个大博客，成为另一个具有影响力的自由媒体。</p>
+<p>blog = Web log = 部落格 =网络日志=网志=网络日记本<br>
+blogger = 写blog的人=博主<br>
+Blog是一个网页，通常由简短且经常更新的帖子（Post，作为动词，表示张贴的意思，作为名字，指张贴的文章）构成，这些帖子一般是按照年份和日期倒序排列的。而作为Blog的内容，它可以是你纯粹个人的想法和心得，包括你对时事新闻、国家大事的个人看法，或者你对一日三餐、服饰打扮的精心料理等，也可以是在基于某一主题的情况下或是在某一共同领域内由一群人集体创作的内容。它并不等同于“网络日记”。作为网络日记是带有很明显的私人性质的，而Blog则是私人性和公共性的有效结合，它绝不仅仅是纯粹个人思想的表达和日常琐事的记录，它所提供的内容可以用来进行交流和为他人提供帮助，是可以包容整个互联网的，具有极高的共享精神和价值。一个Blog就是一个网页，它通常是由简短且经常更新的Post所构成；这些张贴的文章都按照年份和日期排列。其他Blogs则是一群人基于某个特定主题或共同利益领域的集体创作。Blog好像是对网络传达的实时讯息。撰写这些Weblog或Blog的人就叫做Blogger或Blog writer。</p>
+<p>简言之，Blog就是以网络作为载体，简易迅速便捷地发布自己的心得，及时有效轻松地与他人进行交流，再集丰富多彩的个性化展示于一体的综合性平台。 不同的博客可能使用不同的编码，所以相互之间也不一定兼容。这使得不同的博客各具特色。　Blog是继Email、BBS、ICQ之后出现的第四种网络交流方式，是网络时代的个人“读者文摘”，是以超级链接为武器的网络日记，是代表着新的生活方式和新的工作方式，更代表着新的学习方式。具体说来，博客(Blogger)这个概念解释为使用特定的软件，在网络上出版、发表和张贴个人文章的人。</p>
+<p>一个Blog其实就是一个网页，它通常是由简短且经常更新的帖子所构成，这些张贴的文章都按照年份和日期倒序排列。个人构想到日记、照片、诗歌、散文，甚至科幻小说的发表或张贴都有。许多Blogs是个人心中所想之事情的发表，其它Blogs则是一群人基于某个特定主题或共同利益领域的集体创作。<br>
+随着Blogging快速扩张，它的目的与最初的浏览网页心得已相去甚远。不过，由于沟通方式比电子邮件、讨论群组更简单和容易，Blog已成为家庭、公司、部门和团队之间越来越盛行的沟通工具，因为它也逐渐被应用在企业内部网络(Intranet)中。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU-Quantum TH9000Plus]]></title>
+        <id>https://quantumltd.github.io/post/cpu-quantum-th9000plus/</id>
+        <link href="https://quantumltd.github.io/post/cpu-quantum-th9000plus/">
+        </link>
+        <updated>2022-08-30T02:41:49.000Z</updated>
+        <content type="html"><![CDATA[<p>处理器名称		Quantum TH9000 plus</p>
+<p>核心数量		1超大核+3大核+4小核</p>
+<p>CPU频率		4.0Ghz+3.4Ghz+2.8Ghz</p>
+<p>架构		Quantum-AD</p>
+<p>三级缓存		512MB</p>
+<p>制程工艺		3nm</p>
+<p>晶体数量		21 billion</p>
+<p>GPU名称		Quantum QForce Qg2080</p>
+<p>GPU频率		2Ghz</p>
+<p>核心数量		24</p>
+<p>每秒浮点计算		2975 Gigaflops</p>
+<p>内存类型		LPDDR5X</p>
+<p>内存频率		7500Mhz</p>
+<p>Bus		8x16 bit</p>
+<p>最大带宽		64 Gbit/s</p>
+<p>内存最大值		24GB</p>
+<p>NPU		Turbo Leap 730</p>
+<p>储存类型		UFS 3.1</p>
+<p>屏幕分辨率		4K 240hz或8K 180hz</p>
+<p>相机最大分辨率		&quot;320MP<br>
+64MP and 32MP<br>
+3x32MP&quot;</p>
+<p>视频录制		8K 180FPS ＆ 4K 240FPS</p>
+<p>视频播放		8K 180FPS ＆ 4K 240FPS</p>
+<p>视频编码支持		H.264, H.265, VP9</p>
+<p>音频编码支持		H.264, H.265, VP9</p>
+<p>基带		Balong 5000</p>
+<p>5G网络		支持</p>
+<p>上行速度		最高7 Gpbs</p>
+<p>下行速度		最高2.5 Gpbs</p>
+<p>WiFi协议		6</p>
+<p>蓝牙协议		5.3 LE</p>
+<p>定位系统支持		GPS L1CA+L5, GLONASS L10F, Beidou, Galileo E1+ E5a, QZSS L1CA+ L5, SBAS,NAVIC,北斗 B1l+ B2a</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CPU-Quantum TL835]]></title>
+        <id>https://quantumltd.github.io/post/cpu-quantum-tl835/</id>
+        <link href="https://quantumltd.github.io/post/cpu-quantum-tl835/">
+        </link>
+        <updated>2022-08-30T02:26:35.000Z</updated>
+        <content type="html"><![CDATA[<p>处理器名称：Quantum TL835<br>
+核心数量：4大核+4小核<br>
+CPU频率：2.4GHZ+1.9GHZ<br>
+架构：Quantum-AD<br>
+三级缓存：无<br>
+制程工艺：7nm<br>
+晶体数量：11 billion</p>
+<p>GPU名称：Quantum QForce Qgx1050Ti<br>
+GPU频率：900Mhz<br>
+核心数量：8<br>
+每秒浮点计算：735 Gigaflops</p>
+<p>内存类型：LPDDR4X<br>
+内存频率：2133Mhz<br>
+Bus：2x16 bit<br>
+最大带宽：17 Gbit/s<br>
+内存最大值：12GB</p>
+<p>NPU： Turbo Leap 690<br>
+储存类型：eMMC 5.1,UFS 2.1, UFS 2.2, UFS 3.0, UFS 3.1<br>
+视频录制：4K 60FPS<br>
+视频播放：4K 60FPS<br>
+视频编码支持：H.264, H.265, VP8, VP9<br>
+音频编码支持：H.264, H.265, VP8, VP9</p>
+<p>基带：X53<br>
+5G网络		支持<br>
+上行速度		最高1145 Mpbs<br>
+下行速度		最高191 Mpbs<br>
+WiFi协议		6				<br>
+蓝牙协议		5.2			<br>
+定位系统支持		GPS, GLONASS, Beidou, Galileo, QZSS, SBAS, NAVIC</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[万物互联]]></title>
+        <id>https://quantumltd.github.io/post/wan-wu-hu-lian/</id>
+        <link href="https://quantumltd.github.io/post/wan-wu-hu-lian/">
+        </link>
+        <updated>2022-08-29T01:16:44.000Z</updated>
+        <content type="html"><![CDATA[<p>1.本功能可做到全系统通用，简要来讲，我和磁铁黏在一起，这也是万物互联（（<br>
+回到正题，我们万物互联的原理：只需要两台设备互相靠近，它们上面的磁铁就会互相贴在一起，然后用量子力学来控制。<br>
+2.本系统突破设备限制，自由进行语音或视频通话，包括但不局限于下列操作：用音响接听好友电话，用手机控制智能眼镜投屏进行视频通话等操作。<br>
+3.本系统可实现手机连接汽车，作为车钥匙使用。可以控制汽车，如AI智能驾驶，也可以切换手动模式（按键/摇杆/重力），体验到真正的狂野飙车。本系统可实现更多功能，如播放音乐，导航，通话，打开空调等。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[智能眼镜]]></title>
+        <id>https://quantumltd.github.io/post/zhi-neng-yan-jing/</id>
+        <link href="https://quantumltd.github.io/post/zhi-neng-yan-jing/">
+        </link>
+        <updated>2022-08-29T01:15:43.000Z</updated>
+        <content type="html"><![CDATA[<p>1.本产品与宇宙先进科技接驳，我们把重量减少到50g，但续航保持在114514年。<br>
+2.本产品有针孔摄像头，可以检视周围的物品并且让最新的M114514处理器进行识别并进行大数据分析，识别率高达1919810%<br>
+3.本产品的数据展示采用全息投影，所以当您使用时，别人也会看到您的结果，请多加小心！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[脑机接口]]></title>
+        <id>https://quantumltd.github.io/post/nao-ji-jie-kou/</id>
+        <link href="https://quantumltd.github.io/post/nao-ji-jie-kou/">
+        </link>
+        <updated>2022-08-29T01:15:06.000Z</updated>
+        <content type="html"><![CDATA[<p>注：本功能需要通过手术实现，现在进行到了内测阶段<br>
+1.稳定版（内测中）：<br>
+原理：在脑袋任意位置开一个能容纳USB接口的洞，并将USB接口放进洞中。通过数据线连接设备，并将设备上的文件传输。<br>
+2.测试版（开发中）：<br>
+原理：在脑袋上任意位置开一个能容纳U盘的洞，并将U盘放入洞中。若想传输文档，可将U盘的插头插入设备上（别问插在开关电源适配器¹上会怎么样），并用其他已互联的设备控制该设备进行传输。<br>
+3.本接口需要QuantumBRAIN系统支持，若想自带U盘，请提前在U盘内装上本系统的压缩包。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[系统介绍]]></title>
+        <id>https://quantumltd.github.io/post/xi-tong-jie-shao/</id>
+        <link href="https://quantumltd.github.io/post/xi-tong-jie-shao/">
+        </link>
+        <updated>2022-08-29T01:07:06.000Z</updated>
+        <content type="html"><![CDATA[<p>Quantum-荃藤<br>
+超强劲，硬实力<br>
+基于全新量子计算机的划时代操作系统横空出世，快到飞起<br>
+Quantum精巧的系统完全基于全新自研框架，量子计算机/apple/windows/Linux/安卓/脑机接口/智能眼镜，我们全包了<br>
+Quantum1.0（量子计算机专用）<br>
+QuantumWIN（windows专用）<br>
+QuantumMAC（MAC用户专用）<br>
+QuantumAD（安卓用户专用）<br>
+QuantumAPPLE（ios/iPadOS用户专用）<br>
+QuantumLinux（Linux用户专用）<br>
+QuantumGLASS（智能眼镜）<br>
+QuantumBRAIN（脑机接口）<br>
+QuantumWIN x s max pro ultra lite s se 2（最新稳定版）</p>
+<p>注意，若有些应用程序想要获取个人信息，也不必手动点击，我们的系统将会自动同意，若有一个权限没有开启，本系统将会给您刷会原先的操作系统。</p>
+<p>一.量子计算机篇：<br>
+1.我们修复了以往量子计算机性能太高的问题，所以我们特意每秒执行1145141919810次的if循环。<br>
+2.本系统没有关机键，这意味着只能通过拔电源的方式来关机。<br>
+3.①为了解决性能过高的bug，本系统推荐分辨率为114514K 1919810fps。并且内置64个挖矿软件，开机会自启动，任务管理器杀不掉。<br>
+②为防止某些用户恶意更改分辨率，所以本系统检测到分辨率降低，就会同时运行114514个3D Mark，让您计算机的性能完全释放！<br>
+4.本系统若检测不到GPU，属于正常现象，因为本系统可以通过CPU进行渲染。（不是这谁想的点子啊）<br>
+5.若人与系统分离超过十米，系统就会进入自毁模式，在硬盘里生成八万个空间互相干扰，忘记就隐形，丢失就报警</p>
+<p>6.可执行程序改为xxx.qta 并且兼容各种系统的各种可执行程序<br>
+7.自动蹭网功能，当检测不到自己的WiFi时 自动破解邻居家的<br>
+二.原Linux/Windows/MacOS系统用户特供版<br>
+1.我们会强行提供cpu、gpu的性能，跑分只有10分都能给你跑到10000分<br>
+2. 可执行程序改为xxx.qta，并且兼容各种系统的各种可执行程序<br>
+3.与Quantum1.0相同的蹭网功能<br>
+4.预装360全家桶，保障用户体验<br>
+5.当使用默认浏览器时，检测到用户浏览不良网站，会强行关闭此网站，并对相应的IP进行ddos、udpflood、注入</p>
+<p>三.原安卓/ios用户特供版<br>
+1.apk、ipa文件无需特权（越狱、root）直接安装<br>
+2.qta文件可直接安装<br>
+3.为了与世界先进科技的轨道接驳，无论设备是否配备3.5mm耳机接口，本系统会屏蔽掉它们并且不会对其进行适配。<br>
+4.本系统进行了网络优化，让用户在网络波动较大时，自动破解邻居网络并连接，从而实现稳定的上网体验。<br>
+5.为防止手机下载病毒软件，系统内捆绑360全家桶，无法删除。<br>
+6.当AI识别到用户通过链接下载不良内容时，服务器将会对网站DDoS攻击，保障用户的身心健康。<br>
+四.服务器特供版<br>
+1.本系统会将恶意的压力测试转到服务器上，服务器质量极佳，同时进行上亿次压力测试也安然无恙，请放心食用。<br>
+2.若进行DDoS攻击，我们的服务器会检测并且根据IP自动DDoS攻击。<br>
+3.若检测IP尝试多次DDoS攻击，本系统将会采用精神攻击（既打电话）</p>
+<p>四.其他<br>
+1.为了与世界先进科技的轨道接驳，无论设备是否配备3.5mm耳机接口，本系统会屏蔽掉它们并且不会对其进行适配<br>
+2.开发中…</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[欢迎！]]></title>
+        <id>https://quantumltd.github.io/post/hello-gridea/</id>
+        <link href="https://quantumltd.github.io/post/hello-gridea/">
+        </link>
+        <updated>2018-12-11T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Quantum的产品</strong> ！<br>
+✍️ 我们立志做出最好的产品！...</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Quantum的产品</strong> ！<br>
+✍️ 我们立志做出最好的产品！...</p>
+<!-- more -->
+<p><a href="https://klpbbs.com/thread-59982-1-1.html">苦力怕论坛</a></p>
+<h2 id="主要产品">主要产品👇</h2>
+<p>📝系统：Quantum1.0（量子计算机专用）<br>
+QuantumWIN（windows专用）<br>
+QuantumMAC（MAC用户专用）<br>
+QuantumAD（安卓用户专用）<br>
+QuantumAPPLE（ios/iPadOS用户专用）<br>
+QuantumLinux（Linux用户专用）<br>
+QuantumGLASS（智能眼镜）<br>
+QuantumBRAIN（脑机接口）<br>
+QuantumWIN x s max pro ultra lite s se 2（最新稳定版）<br>
+💬除此之外，我们还制作CPU与GPU，未来产品还会增加<br>
+😘 Enjoy~</p>
+]]></content>
+    </entry>
+</feed>
